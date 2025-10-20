@@ -42,7 +42,9 @@
 #### Remove outliers: Listings with prices > $1,000 were capped to avoid skewed visualizations.
 
 ### 2. EDA (Exploratory Data Analysis)
-#### Room type distribution:
+
+###  Room type distribution:
+
 #### -Visualized the count of each room type using bar plots.
 #### -Identified Entire home/apt as the most common room type.
 
