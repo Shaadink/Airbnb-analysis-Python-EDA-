@@ -122,5 +122,5 @@
 
 #### Conclusion
 
-This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings
+#### This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By #### using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced #### analytics and predictive modeling to further enhance the findings
 
