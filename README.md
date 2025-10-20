@@ -5,6 +5,6 @@
 
 ## Project Overview
 
--![Dashboard View]()
+-![Dashboard View](https://github.com/Shaadink/Airbnb-analysis-Python-EDA-/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2%20(1).jpg)
 
 
