@@ -112,11 +112,13 @@
 ### For Guests:
 
 -Look for listings with high availability and good reviews for a better experience.
+
 -Private rooms in Brooklyn offer affordable stays compared to Manhattan.
 
 ### For Hosts:
 
  -Improve availability and review response rates to attract more bookings.
+ 
  -Manage pricing effectively to compete within the borough's market.
 
 
