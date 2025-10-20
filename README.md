@@ -10,3 +10,11 @@
 -![Dashboard View](https://github.com/Shaadink/Airbnb-analysis-Python-EDA-/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2%20(1).jpg)
 
 
+# Objective
+####The goal of this project is to:
+
+#### 1.Analyze room types, prices, and availability across different neighborhoods.
+#### 2.Understand host behavior and listing patterns.
+#### 3.Detect potential outliers in prices.
+#### 4.Provide recommendations for guests and hosts based on insights.
+
